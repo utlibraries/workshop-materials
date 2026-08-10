@@ -14,12 +14,12 @@ else:
 # Step 2 / Question 2: loading pre-packaged library
 try:
     import sys
-    python_version = sys.version.split()[0]  # "3.11.4"
-    base_package = "Python is working in VSCode on my computer."
+    python_version = sys.version.split()[0]
+    base_package = "Python is working on my computer."
     print(f"✅ {base_package} I am running Python version {python_version}.\n")
 except ImportError:
     python_version = "No Python detected.\n"
-    base_package = "Python is not working in VSCode on my computer."
+    base_package = "Python is not working on my computer."
     print(f"❌ {base_package} Please reach out to Anna McGilvray at annamcgilvray@austin.utexas.edu or come prepared to stick around at the end of Day 1 and/or 2 for assistance.\n")
 
 # Step 3 / Question 3: loading non-pre-packaged library
@@ -73,7 +73,7 @@ else:
 
 # Step 8: full check
 all_checks_passed = (
-    base_package == "Python is working in VSCode on my computer." and
+    base_package == "Python is working on my computer." and
     requests_message == "requests module successfully called." and
     not os_info.startswith("OS info not successfully retrieved") and
     pandas_status == "pandas module successfully called." and
@@ -82,7 +82,7 @@ all_checks_passed = (
 )
 
 if all_checks_passed:
-    final_status = "Your VSCode Python setup is ready to go!"
+    final_status = "Your Python setup is ready to go!"
     print(f"🎉🎉🎉 {final_status} 🎉🎉🎉\n")
 else:
     final_status = "One or more checks was unsuccessful. Please review the messages above and reach out to Anna McGilvray at annamcgilvray@austin.utexas.edu for help or come prepared to stick around at the end of Day 1 and/or 2 for assistance."
@@ -107,13 +107,3 @@ if response.status_code == 200:
     print("✅ Form submission successful.\n")
 else:
     print("❌ Form submission failed.\n", response.status_code)
-
-# all_checks_passed = (
-#     base_package == "Python is working in VSCode on my computer." and
-#     requests_message == "requests module successfully called." and
-#     not os_info.startswith("OS info not successfully retrieved") and
-#     pandas_status == "pandas module successfully called." and
-#     venv_status == "virtual environment active!" and
-#     not str(timestamp).startswith("Could not import") and
-#     response.status_code == 200
-# )
