@@ -17,3 +17,8 @@
 * [Assessment Form: Day 2](https://bit.ly/ipw-aug26-day2-survey)
 
 ### Day 3
+* Presentation Slides: Python for Data Visualization
+* Colab Notebook: Intro to Python for Data Visualization
+* Presentation Slides: Git & GitHub + AI and Coding
+* Assessment Form: Day 3
+
