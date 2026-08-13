@@ -13,7 +13,7 @@
 ### Day 2
 * [Presentation Slides: Intro to Python](https://docs.google.com/presentation/d/1vNSjlg6MUFShoJThCKnNpz8T3YNld0Lq/edit?usp=sharing&ouid=112991173686985742999&rtpof=true&sd=true)
 * [Colab Notebook #1: Intro to Python](https://colab.research.google.com/drive/1aHiKYOVkvAxZbgIBe96osGogWBHRd59q)
-* [Colab Notebook #2: Intro to Python for File Management (Colab Notebook #2)](https://bit.ly/4fYEcSQ)
+* [Colab Notebook #2: Intro to Python for File Management](https://bit.ly/4fYEcSQ)
 * [Assessment Form: Day 2](https://bit.ly/ipw-aug26-day2-survey)
 
 ### Day 3
