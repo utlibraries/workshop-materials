@@ -15,3 +15,5 @@
 * [Colab Notebook #1: Intro to Python](https://colab.research.google.com/drive/1aHiKYOVkvAxZbgIBe96osGogWBHRd59q)
 * [Colab Notebook #2: Intro to Python for File Management (Colab Notebook #2)](https://bit.ly/4fYEcSQ)
 * [Assessment Form: Day 2](https://bit.ly/ipw-aug26-day2-survey)
+
+### Day 3
