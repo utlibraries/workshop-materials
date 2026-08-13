@@ -5,6 +5,9 @@
 
 ## Helpful Links
 
+### Key Resources
+* [Python Installation and Testing Instructions](https://bit.ly/python-install-test-aug26)
+
 ### Day 1
 * [Presentation Slides: Python Basics](https://docs.google.com/presentation/d/1-DFEMV75o9fPEyNm8Atzf6jRYBY5Bwuz/edit?usp=sharing&ouid=112991173686985742999&rtpof=true&sd=true)
 * [Colab Notebook: Python Basics](https://bit.ly/4wcxrBB)
