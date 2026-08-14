@@ -26,6 +26,6 @@
 * [Folder for Geospatial Python](https://drive.google.com/drive/folders/1e9iD1984FZ0GaZSgauuidgB3v233wsmj?usp=sharing)
 * [Presentation Slides: Git & GitHub + AI and Coding](https://docs.google.com/presentation/d/1robKLNtw3YO3GKbtXsSJ8M3J2fA9mWeF/edit?usp=sharing&ouid=108717965919344494576&rtpof=true&sd=true)
 * [Presentation Slides: Python for Sentiment Analysis](https://docs.google.com/presentation/d/1XJMegvhMew79hOfMeXv3dp3uOd98myPt/edit?usp=sharing&ouid=102957585662764884299&rtpof=true&sd=true)
-* [Colab Notebook: Python for Sentiment Analysis)[https://colab.research.google.com/drive/14EK-wNr15BeS_Tc9io5MtC3LQJItwA9N?usp=sharing]
+* [Colab Notebook: Python for Sentiment Analysis](https://colab.research.google.com/drive/14EK-wNr15BeS_Tc9io5MtC3LQJItwA9N?usp=sharing)
 * [Assessment Form: Day 3](https://bit.ly/ipw-aug26-day3-survey)
 
