@@ -22,6 +22,7 @@
 ### Day 3
 * [Presentation Slides: Intro to Day 3](https://docs.google.com/presentation/d/1lex9GKNxEM856AKyDH6cdWrJnkuSgRV-SLcVXxPm1nk/edit?usp=sharing)
 * Presentation Slides: Python for Data Visualization
+* [Folder for Geospatial Python](https://drive.google.com/drive/folders/1e9iD1984FZ0GaZSgauuidgB3v233wsmj?usp=sharing)
 * Colab Notebook: Intro to Python for Data Visualization
 * Presentation Slides: Git & GitHub + AI and Coding
 * Assessment Form: Day 3
